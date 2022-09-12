@@ -1,5 +1,3 @@
-## Sobre mí
-
 Hola 🙋‍♂️ espero que estés bien, soy **Italo Ricardo Jaramillo Armijos**, vivo en Madrid y actualmente trabajo como desarrollador Android. <br />
 
 Me gradué de Técnico en Radiodiagnóstico ⚡ y soy una persona curiosa, **autodidacta** y apasionada por las nuevas tecnologías. Motivado por ello cursé **[Desarrollo de Aplicaciones Web](https://www.centronelson.org/)** 🖥🖱, donde desarrollamos aplicaciones Web en Cliente-Servidor con con tecnologías como HTML5, CSS3, JavaScript y Java (SpringBoot y Angular) para después deplegarlas en un servidor. Sin embargo este [Centro](https://www.centronelson.org/) tiene una asignatura de desarrollo de aplicaciones móviles en Android. Atraído por ello me surgió la posibilidad de realizar prácticas como desarrollador Android y la posibilidad de seguir trabajando después 📲. <br />
