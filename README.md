@@ -8,17 +8,9 @@ que están estudiando programación y puedan aprovechar este conocimiento. Me gu
 
 En lo que me gusta invertir mi tiempo libre es en seguir aprendiendo más sobre el desarrollo mobile, ver una buena película o una serie, bailar y hacer deporte. 
 
-![astrounat in the ocean.png](https://cdn.hashnode.com/res/hashnode/image/upload/v1632591119768/HzgezMZVd.png) [`Cuadro del astronauta columpiándose sobre La Luna, que me pintó con mucho amor una pedazo de artista, pronto dejaré su link por aquí`] 
-
 Agradezco tu interés por llegar hasta aquí 🤗, puedes contactar conmigo a través de: <br/>
 - 📫 jaramilloarmijositalo@gmail.com
 - [LinkedIn](https://www.linkedin.com/in/italo-ricardo-jaramillo-armijos-3b0b68202) 
-- [Instagram](https://www.instagram.com/italo.jar/)
-
-**Cosas que te pueden interesar**: 
->  No olvides seguirme en [GitHub](https://github.com/italojar)
-
-Puedes saludarme y dejarme tu mensaje en los comentarios 👇
 
 <!--
 **italojar/italojar** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
