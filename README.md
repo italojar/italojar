@@ -5,8 +5,8 @@ Me gradué de Técnico en Radiodiagnóstico ⚡, soy una persona curiosa, **auto
 En lo que me gusta invertir mi tiempo libre es en seguir aprendiendo más sobre el desarrollo mobile, ver una buena película o una serie, bailar y hacer deporte. 
 
 Puedes contactar conmigo a través de: <br/>
-- 📫 jaramilloarmijositalo@gmail.com
 - [LinkedIn](https://www.linkedin.com/in/italo-ricardo-jaramillo-armijos-3b0b68202) 
+- 📫 jaramilloarmijositalo@gmail.com
 
 <!--
 **italojar/italojar** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
