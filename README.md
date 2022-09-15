@@ -1,4 +1,4 @@
-Hola 🙋‍♂️ espero que estés bien, soy **Italo Ricardo Jaramillo Armijos**, soy desarrollador Android. <br />
+Hola 🙋‍♂️ espero que estés bien, soy **Italo Ricardo Jaramillo Armijos**, y soy desarrollador Android. <br />
 
 Me gradué de Técnico en Radiodiagnóstico ⚡, soy una persona curiosa, **autodidacta** y apasionada por las nuevas tecnologías. Motivado por ello cursé **[Desarrollo de Aplicaciones Web](https://www.centronelson.org/)** 🖥🖱, donde desarrollamos aplicaciones Web en Cliente-Servidor para después deplegarlas en un servidor. Sin embargo este [Centro](https://www.centronelson.org/) tiene una asignatura de desarrollo de aplicaciones móviles en Android. Atraído por ello me surgió la posibilidad de realizar prácticas como desarrollador Android y la posibilidad de seguir trabajando después 📲. <br />
 
